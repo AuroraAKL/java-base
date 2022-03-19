@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+    <stu>
+        <addr type="农村"></addr>
+        <name>小明</name>
+        <age>18</age>
+    </stu>
+</students>
